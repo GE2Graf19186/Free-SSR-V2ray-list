@@ -1,5 +1,6 @@
 # Free-SSR-V2ray-list
 用来分享SSR V2Ray节点
+如果订阅链接无法使用，点view code 看 
 
 自用机场：mojie.me
 __免费订阅（不用挂代理更新）__
