@@ -4,6 +4,7 @@
 
 自用机场：mojie.me (v2ray)
 https://stc-clubs.casa/auth/register  (ssr)
+
 __免费订阅（不用挂代理更新）__
 
 __ssr__：https://sspool.herokuapp.com/ssr/sub
