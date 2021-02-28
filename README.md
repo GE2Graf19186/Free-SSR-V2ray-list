@@ -2,7 +2,8 @@
 用来分享SSR V2Ray节点
 如果订阅链接无法使用，点view code 看 
 
-自用机场：mojie.me
+自用机场：mojie.me (v2ray)
+https://stc-clubs.casa/auth/register  (ssr)
 __免费订阅（不用挂代理更新）__
 
 __ssr__：https://sspool.herokuapp.com/ssr/sub
